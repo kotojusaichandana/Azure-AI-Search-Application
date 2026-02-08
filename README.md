@@ -100,6 +100,7 @@ Implement role-based access control
 Azure AI Search Service: Configured via Azure Portal
 
 Demo Application: Azure Search Explorer
+Demo link: https://drive.google.com/file/d/1Q-nUPYD5xXIIQgNw5j0ZdpGWNDaEPW1U/view?usp=sharing
 
 📚 References
 
